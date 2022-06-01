@@ -44,3 +44,17 @@ task 14: script that Display lines containing the pattern “root” from the fi
 task 15: Script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 
 task 16: Script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+task 17: Script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+task 18: Script that Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+include capital letters as well
+
+task 19: Script that Replace all characters A and c from input to Z and e respectively.
+
+task 20: Scipt that Create a script that removes all letters c and C from input.
+
+task 21: script that reverses its input
+
+task 22: script that displays all users and their home directories, sorted by users.
